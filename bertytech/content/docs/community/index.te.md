@@ -75,12 +75,12 @@ There are plenty of ways to get involved and act for our community. It has been 
 >* Not code-related = Open task 
 
 Guidelines for each different topic/area:
-* [⌨️ Code](#-code)
-* [📖 Open Tasks](#-open-tasks)
-* [㊗️ Translation](#-translation)
-* [🐞Bugs and Report](#-bug-and-report)
-* [📞 Support](#-support)
-* [✍️ Website & Blog](#-website--blog)
+* [⌨️ Code](docs/protocol/#-code)
+* [📖 Open Tasks](docs/protocol/#-open-tasks)
+* [㊗️ Translation](docs/protocol/#-translation)
+* [🐞Bugs and Report](docs/protocol/#-bug-and-report)
+* [📞 Support](docs/protocol/#-support)
+* [✍️ Website & Blog](docs/protocol/#-website--blog)
 
 
 

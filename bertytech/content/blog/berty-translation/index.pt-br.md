@@ -21,7 +21,7 @@ TL; DR: Help us to translate the Berty app & website using a platform called Cro
 
 According to [Babbel](https://www.babbel.com/en/magazine/how-many-people-speak-english-and-where-is-it-spoken#:~:text=Out%20of%20the%20world's%20approximately,English%20as%20their%20first%20language.), about 360 million people speak English as their first language. And many more people read/talk English: about 20% of the world's population or 1.5 billion people. It is one of the most widely spoken languages in the world. 
 
-This is one of the reasons why we communicate almost exclusively in English. To spread our message massively. Whereas in real life, we are Frenchies, frogs and baguette eaters (#cliché). 
+This is one of the reasons why we communicate almost exclusively in English. To spread our message massively. Whereas in real life, we are Frenchies, frogs and baguette eaters (docs/protocol/#cliché). 
 
 However, be aware of one thing: If you read this article in its original version, i.e., in English, you are lucky! You have access to knowledge and information!
 

@@ -48,7 +48,7 @@ Usages:
 - In areas with weak or no connection or cell reception.
 - When you travel and you want to communicate safely through insecure public connections.
 
-**Note: the project is made by a small team of humans who are not experts and who make mistakes. Please, do not hesitate to point out if you notice a bug or something missing.** _See the [contribute section](#contributing) below._
+**Note: the project is made by a small team of humans who are not experts and who make mistakes. Please, do not hesitate to point out if you notice a bug or something missing.** _See the [contribute section](docs/protocol/#contributing) below._
 
 > We cannot promise to give you the best app, but we can commit to doing our best in that direction.
 

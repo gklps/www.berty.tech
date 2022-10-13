@@ -55,7 +55,7 @@ And good news: it's been online for a couple of hours.  You should definitely ha
 ### Paris P2P #4
 As every first Wednesday of every month, we participated in the ParisP2P event in Paris.  It was great to take the time to talk with everyone (not only about Berty, but about p2p in general). We see more and more new faces, and it's terrific! 🙃
 
-This edition (#4) was special because there was no lecture, but a big focus on the upcoming P2P festival in Paris in January.  We are all excited to be a part of it.
+This edition (docs/protocol/#4) was special because there was no lecture, but a big focus on the upcoming P2P festival in Paris in January.  We are all excited to be a part of it.
 
 This free festival will be over 5 days long, including a conference, hackathon, various workshops. The objective is to propose meetings around all the themes related to Peer-to-Peer and cryptography.
 

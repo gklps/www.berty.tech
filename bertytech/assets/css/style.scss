@@ -120,17 +120,17 @@ amp-img {
 .bg-android {background-color:$color-android;}
 .bg-blue-light {background-color:#EAF0FC;}
 .bg-blue.gradient {
-  background: radial-gradient(#5b64f0,$color-blue);
+  background: radial-gradient(docs/protocol/#5b64f0,$color-blue);
 }
 .bg-yellow.gradient {
-  background: radial-gradient(#FFBF47,$color-yellow);
+  background: radial-gradient(docs/protocol/#FFBF47,$color-yellow);
 }
 .bg-pink.gradient {
-  background: radial-gradient(#ff5488,$color-pink);
+  background: radial-gradient(docs/protocol/#ff5488,$color-pink);
 }
 .bg-fakeblack.gradient {
-  /*background: radial-gradient(#4c4f73,$color-fakeblack);*/
-  /*background: radial-gradient(#393b64,#2f3154);*/
+  /*background: radial-gradient(docs/protocol/#4c4f73,$color-fakeblack);*/
+  /*background: radial-gradient(docs/protocol/#393b64,#2f3154);*/
   background: radial-gradient($color-fakeblack,#2f3154);
 }
 .bg-purple.gradient {

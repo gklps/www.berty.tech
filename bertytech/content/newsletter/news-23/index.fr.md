@@ -30,7 +30,7 @@ And because it's you, a little padawan who follows our news, here's a little gli
 
 ![](screen-berty-v2.png)
 
-We now have the (almost) final version of "mockup-final2-final.sketch". (#graphicdesignerjoke) 🎉
+We now have the (almost) final version of "mockup-final2-final.sketch". (docs/protocol/#graphicdesignerjoke) 🎉
 
 
 ### Audits

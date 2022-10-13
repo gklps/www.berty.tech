@@ -21,7 +21,7 @@ TL; DR: Avec Crowdin, aidez-nous à traduire l'application & le site web Berty. 
 
 Selon [Babbel](https://www.babbel.com/en/magazine/how-many-people-speak-english-and-where-is-it-spoken#:~:text=Out%20of%20the%20world's%20approximately,English%20as%20their%20first%20language.), environ 360 millions de personnes parlent l'anglais comme langue maternelle. Et beaucoup plus de gens lisent/parlent l'anglais: environ 20 % de la population mondiale ou 1,5 milliard de personnes. C'est l'une des langues les plus parlées au monde.
 
-C'est une des raisons pour lesquelles nous communiquons presque exclusivement en anglais. Pour diffuser massivement notre message. Alors que dans la vie réelle, nous sommes des Français, mangeur de Grenouilles et de Baguettes (#cliché).
+C'est une des raisons pour lesquelles nous communiquons presque exclusivement en anglais. Pour diffuser massivement notre message. Alors que dans la vie réelle, nous sommes des Français, mangeur de Grenouilles et de Baguettes (docs/protocol/#cliché).
 
 Cependant, sachez une chose: Si vous lisez cet article dans sa version originale, c'est-à-dire en anglais, vous avez de la chance! Vous avez accès à la connaissance et à l'information !
 
